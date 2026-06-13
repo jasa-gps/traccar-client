@@ -1,0 +1,8 @@
+# graphify local build state — machine-specific, not deliverables
+.graphify_python
+.graphify_root
+.graphify_labels.json
+.graphify_*
+cache/
+manifest.json
+cost.json
